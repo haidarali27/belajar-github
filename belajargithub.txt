@@ -1,3 +1,4 @@
 file ini khusus belajar git dan github
 - belajar dengan baik
 - belajar dengan sungguh-sungguh
+- belajar dengan mentor
