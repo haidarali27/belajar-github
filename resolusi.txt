@@ -1,0 +1,5 @@
+salam kenal saya haidar ali
+ijin mau menggunakan repo ini
+resolusi :
+- membuat website pyhton flask
+- membuat website pyhton django
